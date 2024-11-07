@@ -1,4 +1,8 @@
-import React from 'react'
+export const metadeta = {
+  title: "My Next Js journey",
+}
+
+
 
 function About() {
   return (
