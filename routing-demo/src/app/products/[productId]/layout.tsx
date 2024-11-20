@@ -14,4 +14,4 @@ function ProductDetailsLayout({children}:childrenDataTypes) {
   )
 }
 
-export default ProductDetailsLayout
+export default ProductDetailsLayout  
